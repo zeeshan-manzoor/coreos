@@ -5,7 +5,7 @@ users:
   groups:
     - sudo
     - docker
-  ssh-autorized-keys:
+  ssh-authorized-keys:
     - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgQW8zO3axOVuuBZQ2SE5hgd7ObCDL0rYmcdBRjl+6H+PuO6KtrqMvCVbhMW2Fp4ugF3/k7W3BWkNct4OL3CZyjzHwJkw1uqO7+Xey6dhaEzirMehBKtF16ZioKNBteNFOna1hsgD87tMnHk3Fe9WLDjqLulGbRsXSafwjMY4wCQDKu725uz6XcMx75LmW/kRELLX2r9A11769G/9zsI32pROXox+qO1V7DmvgPbtbddrUYdAXz2kXCOALYv2Jd0lmbm6/++VAtWYECjIoZp+FbEQzjlfgP7BIo8kf8MhLY/sRRFnyDB4FVaNV2NfGY9GH4LcmxTItjYHT7pAcDjRL"
 
   
